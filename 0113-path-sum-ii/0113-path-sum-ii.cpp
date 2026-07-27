@@ -11,21 +11,16 @@
  */
 class Solution {
 public:
-    void traverse(vector<int> path , TreeNode* root , vector<vector<int>>&ans , int sum , int currsum) {
+    void traverse(vector<int>&path , TreeNode* root , vector<vector<int>>&ans , int sum , int currsum) {
         if(!root) return;
         currsum += root -> val;
         path.push_back(root -> val);
         if(!root -> right && !root -> left && currsum == sum) {
             ans.push_back(path);
-            path.clear();
-            return;
-        }
-        else if(!root -> right && !root -> left) {
-            path.clear();
-            return;
         }
         if(root -> left) traverse(path , root -> left , ans , sum , currsum);
         if(root -> right) traverse(path , root -> right , ans , sum , currsum);
+        path.pop_back();
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
