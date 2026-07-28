@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
