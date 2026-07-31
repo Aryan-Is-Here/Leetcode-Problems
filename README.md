@@ -13,6 +13,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 ## String
 |  |
 | ------- |
@@ -75,4 +78,9 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
