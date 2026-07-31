@@ -9,16 +9,19 @@
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## String
@@ -62,4 +65,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
