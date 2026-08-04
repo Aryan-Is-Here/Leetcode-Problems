@@ -14,6 +14,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
@@ -23,6 +24,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
@@ -33,6 +35,7 @@
 | [0099-recover-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 ## String
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 ## Math
 |  |
