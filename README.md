@@ -67,6 +67,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -76,16 +77,19 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
@@ -103,6 +107,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -166,8 +171,17 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
