@@ -60,6 +60,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
