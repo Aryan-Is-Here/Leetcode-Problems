@@ -60,6 +60,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -70,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
 ## DP on Trees
 |  |
@@ -142,4 +145,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
