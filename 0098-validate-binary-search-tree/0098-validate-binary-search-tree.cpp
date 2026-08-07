@@ -11,13 +11,13 @@
  */
 class Solution {
 public:
-    TreeNode *prev = NULL;
     bool ans = true;
-    void inorder(TreeNode* root) {
+    TreeNode* prev = NULL;
+    void inorder(TreeNode * root) {
         if(!ans) return;
-        if(root == NULL) return;
+        if(!root) return;
         inorder(root -> left);
-        if(prev != NULL && root -> val <= prev -> val) ans = false;
+        if(prev && prev -> val >= root -> val) ans = false;
         prev = root;
         inorder(root -> right);
     }
