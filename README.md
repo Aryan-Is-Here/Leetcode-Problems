@@ -75,6 +75,7 @@
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
