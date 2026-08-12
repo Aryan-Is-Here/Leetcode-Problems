@@ -74,6 +74,7 @@
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -119,6 +120,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
