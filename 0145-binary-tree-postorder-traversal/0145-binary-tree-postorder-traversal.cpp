@@ -14,21 +14,27 @@ public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
         if(!root) return ans;
-        stack<TreeNode*>st;
         TreeNode* curr = root , *prev = nullptr;
-        while(curr || !st.empty()) {
-            while(curr) {
-                st.push(curr);
+        while(curr) {
+            if(!curr -> right) {
+                ans.push_back(curr -> val);
                 curr = curr -> left;
             }
-            TreeNode* node = st.top();
-            if(node -> right && node -> right != prev) curr = node -> right;
             else {
-                ans.push_back(node -> val);
-                st.pop();
-                prev = node;
+                prev = curr -> right;
+                while(prev -> left && prev -> left != curr) prev = prev -> left;
+                if(!prev -> left) {
+                    prev -> left = curr;
+                    ans.push_back(curr -> val);
+                    curr = curr -> right;
+                }
+                else {
+                    prev -> left = NULL;
+                    curr = curr -> left;
+                }
             }
         }
+        reverse(ans.begin() , ans.end());
         return ans;
     }
 };
