@@ -52,6 +52,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
@@ -124,6 +125,7 @@
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
