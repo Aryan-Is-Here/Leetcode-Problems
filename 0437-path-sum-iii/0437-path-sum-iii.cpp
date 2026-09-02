@@ -12,7 +12,7 @@
 class Solution {
 public:
     int count = 0;
-    void dfs(TreeNode * root , long long sum , int t , unordered_map<long long , int>mp) {
+    void dfs(TreeNode * root , long long sum , int t , unordered_map<long long , int>&mp) {
         if(!root) return;
         sum += root -> val;
         if(mp.find(sum - t) != mp.end()) count += mp[sum - t];
