@@ -11,29 +11,21 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode *root , int sum , int t , vector<int>a , vector<vector<int>>&ans) {
-        if(!root -> left && !root -> right) {
-            if(sum == t) ans.push_back(a);
-            return;
-        }
-        if(root -> left) {
-            vector<int>temp = a;
-            temp.push_back(root -> left -> val);
-            inorder(root -> left , sum + root -> left -> val , t , temp , ans);
-        }
-        if(root -> right) {
-            vector<int>temp = a;
-            temp.push_back(root -> right -> val);
-            inorder(root -> right , sum + root -> right -> val , t , temp , ans);
-        }
+    void inorder(TreeNode *root , int sum , int t , vector<int>&a , vector<vector<int>>&ans) {
+        if(!root) return;
+        a.push_back(root -> val);
+        sum = sum + root -> val;
+        if(!root -> left && !root -> right) if(sum == t) ans.push_back(a);
+        inorder(root -> left , sum , t , a , ans);
+        inorder(root -> right , sum , t , a , ans);
+        a.pop_back();
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> ans;
         if(!root) return ans;
         vector<int>a;
-        a.push_back(root -> val);
-        inorder(root , root -> val , targetSum , a , ans);
+        inorder(root , 0 , targetSum , a , ans);
         return ans;
     }
 };
