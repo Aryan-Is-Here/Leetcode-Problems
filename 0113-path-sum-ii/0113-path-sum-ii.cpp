@@ -11,22 +11,29 @@
  */
 class Solution {
 public:
-    void traverse(vector<int>&path , TreeNode* root , vector<vector<int>>&ans , int sum , int currsum) {
-        if(!root) return;
-        currsum += root -> val;
-        path.push_back(root -> val);
-        if(!root -> right && !root -> left && currsum == sum) {
-            ans.push_back(path);
+    void inorder(TreeNode *root , int sum , int t , vector<int>a , vector<vector<int>>&ans) {
+        if(!root -> left && !root -> right) {
+            if(sum == t) ans.push_back(a);
+            return;
         }
-        if(root -> left) traverse(path , root -> left , ans , sum , currsum);
-        if(root -> right) traverse(path , root -> right , ans , sum , currsum);
-        path.pop_back();
+        if(root -> left) {
+            vector<int>temp = a;
+            temp.push_back(root -> left -> val);
+            inorder(root -> left , sum + root -> left -> val , t , temp , ans);
+        }
+        if(root -> right) {
+            vector<int>temp = a;
+            temp.push_back(root -> right -> val);
+            inorder(root -> right , sum + root -> right -> val , t , temp , ans);
+        }
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> ans;
-        vector<int> path;
-        traverse(path , root , ans , targetSum , 0);
+        if(!root) return ans;
+        vector<int>a;
+        a.push_back(root -> val);
+        inorder(root , root -> val , targetSum , a , ans);
         return ans;
     }
 };
