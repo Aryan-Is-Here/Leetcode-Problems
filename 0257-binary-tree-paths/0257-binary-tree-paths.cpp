@@ -11,19 +11,18 @@
  */
 class Solution {
 public:
-    void traverse(TreeNode* root , string path , vector<string>&ans) {
-        if(!root -> right && !root -> left) {
-            ans.push_back(path);
+    void traverse(TreeNode * root , string v , vector<string>&ans) {
+        if(!root -> left && !root -> right) {
+            ans.push_back(v);
             return;
         }
-        if(root -> left) traverse(root -> left , path + "->" + to_string(root -> left -> val) , ans);
-        if(root -> right) traverse(root -> right , path + "->" + to_string(root -> right -> val) , ans);
+        if(root -> left) traverse(root -> left , v + "->" + to_string(root -> left -> val) , ans);
+        if(root -> right) traverse(root -> right , v + "->" + to_string(root -> right -> val) , ans);
     }
-
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string> ans;
-        string path = to_string(root -> val);
-        traverse(root , path , ans);
+        vector<string>ans;
+        string v = to_string(root -> val);
+        traverse(root , v , ans);
         return ans;
     }
 };
