@@ -98,6 +98,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -172,6 +173,7 @@
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
