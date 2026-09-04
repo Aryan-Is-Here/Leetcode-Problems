@@ -99,6 +99,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -257,4 +258,8 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
