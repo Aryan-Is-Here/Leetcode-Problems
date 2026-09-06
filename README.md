@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Game Theory
