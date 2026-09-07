@@ -18,6 +18,7 @@
 | [0110-balanced-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -36,6 +37,7 @@
 | [0110-balanced-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -56,6 +58,7 @@
 | [0110-balanced-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -187,6 +190,7 @@
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -210,6 +214,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
 ## Bit Manipulation
