@@ -98,6 +98,7 @@
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -176,6 +177,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -272,6 +275,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0725-split-linked-list-in-parts) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Prefix Sum
 |  |
