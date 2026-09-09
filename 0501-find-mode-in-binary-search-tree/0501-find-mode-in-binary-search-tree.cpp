@@ -11,19 +11,25 @@
  */
 class Solution {
 public:
-    unordered_map<int , int>mp;
+    vector<int>ans;
+    int count = 0 , maxcount = 0;
+    TreeNode* prev = nullptr;
     void traverse(TreeNode * root) {
         if(!root) return;
-        mp[root -> val]++;
         traverse(root -> left);
+        if(prev && root -> val != prev -> val) count = 1;
+        else count++;
+        prev = root;
+        if(count > maxcount) {
+            maxcount = count;
+            ans.clear();
+            ans.push_back(root -> val);
+        }
+        else if(count == maxcount) ans.push_back(root -> val);
         traverse(root -> right);
     }
     vector<int> findMode(TreeNode* root) {
         traverse(root);
-        int x = 0;
-        vector<int> ans;
-        for(auto i : mp) x = max(x , i.second);
-        for(auto i : mp) if(i.second == x) ans.push_back(i.first);
         return ans;
     }
 };
