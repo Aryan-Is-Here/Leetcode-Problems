@@ -57,22 +57,17 @@
 class Solution {
 public:
     int ans = 0;
-    int postorder(TreeNode *root , int &count) {
-        if(!root) {
-            count = 0;
-            return 0;
-        }
-        int leftcount = 0 , rightcount = 0;
-        int left = postorder(root -> left , leftcount);
-        int right = postorder(root -> right , rightcount);
-        count = leftcount + rightcount + 1;
-        int sum = left + right + root -> val;
+    pair<int , int> postorder(TreeNode *root) {
+        if(!root) return {0 , 0};
+        auto left = postorder(root -> left);
+        auto right = postorder(root -> right);
+        int count = left.second + right.second + 1;
+        int sum = left.first + right.first + root -> val;
         if(sum / count  == root -> val) ans++;
-        return sum;
+        return {sum , count};
     }
     int averageOfSubtree(TreeNode* root) {
-        int c = 0;
-        postorder(root , c);
+        postorder(root);
         return ans;
     }
 };
