@@ -11,33 +11,17 @@
  */
 class Solution {
 public:
+    bool ans = true;
+    TreeNode *prev = nullptr;
+    void dfs(TreeNode *root) {
+        if(!root || !ans) return;
+        dfs(root -> left);
+        if(prev && prev -> val >= root -> val) ans = false;
+        prev = root;
+        dfs(root -> right);
+    }
     bool isValidBST(TreeNode* root) {
-        if(!root) return true;
-        TreeNode * prev1;
-        TreeNode* prev2 = nullptr;
-        TreeNode * curr = root;
-        bool ans = true;
-        while(curr) {
-            if(!curr -> left) {
-                if(prev2 && curr -> val <= prev2 -> val) ans = false;
-                prev2 = curr;
-                curr = curr -> right;
-            }
-            else {
-                prev1 = curr -> left;
-                while(prev1 -> right && prev1 -> right != curr) prev1 = prev1 -> right;
-                if(!prev1 -> right) {
-                    prev1 -> right = curr;
-                    curr = curr -> left;
-                }
-                else {
-                    prev1 -> right = nullptr;
-                    if(prev2 && curr -> val <= prev2 -> val) ans = false;
-                    prev2 = curr;
-                    curr = curr -> right;
-                }
-            }
-        }
+        dfs(root);
         return ans;
     }
 };
