@@ -121,6 +121,7 @@
 | [0485-max-consecutive-ones](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -168,6 +169,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
