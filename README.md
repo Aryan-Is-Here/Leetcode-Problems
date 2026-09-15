@@ -305,6 +305,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0725-split-linked-list-in-parts) |
