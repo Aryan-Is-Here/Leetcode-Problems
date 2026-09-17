@@ -210,6 +210,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -321,6 +322,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Binary Lifting
 |  |
