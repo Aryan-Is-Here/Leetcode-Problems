@@ -108,6 +108,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -221,6 +222,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -341,4 +343,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
