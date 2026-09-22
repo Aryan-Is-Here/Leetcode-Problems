@@ -119,6 +119,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -171,6 +173,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -179,6 +182,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -216,6 +220,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -268,6 +273,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
