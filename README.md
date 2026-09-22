@@ -120,6 +120,7 @@
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -179,6 +180,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
@@ -214,6 +216,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -349,4 +352,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
