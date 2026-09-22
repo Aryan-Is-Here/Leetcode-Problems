@@ -24,8 +24,7 @@ public:
     }
     
     int getRandom() {
-        int index = rand() % arr.size();
-        return arr[index];
+        return arr[rand() % arr.size()];
     }
 };
 
