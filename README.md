@@ -98,6 +98,7 @@
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0856-score-of-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -213,6 +214,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0856-score-of-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
