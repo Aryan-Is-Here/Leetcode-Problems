@@ -35,6 +35,7 @@
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
