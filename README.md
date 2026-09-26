@@ -103,6 +103,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0856-score-of-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -133,6 +134,7 @@
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -194,6 +196,7 @@
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
