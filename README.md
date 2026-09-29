@@ -131,6 +131,7 @@
 | [0485-max-consecutive-ones](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -343,6 +344,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
