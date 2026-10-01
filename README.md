@@ -66,6 +66,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
@@ -144,6 +145,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Two Pointers
@@ -404,4 +408,8 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
