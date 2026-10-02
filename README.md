@@ -134,6 +134,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -225,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
@@ -270,6 +272,7 @@
 | [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
