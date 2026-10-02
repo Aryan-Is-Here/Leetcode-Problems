@@ -4,6 +4,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -263,6 +265,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
@@ -406,6 +409,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
