@@ -253,6 +253,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -268,6 +269,7 @@
 | [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -416,4 +418,8 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
