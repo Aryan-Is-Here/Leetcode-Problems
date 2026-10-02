@@ -2,20 +2,21 @@ class Solution {
 public:
     vector<string> ans;
     unordered_map<string , int>mp;
-    void solve(string s , int n , int k) {
+    void solve(string &s , int n , int k) {
         if(k == n) {
             if(mp.find(s) == mp.end()) ans.push_back(s);
             mp[s]++;
             return;
         }
         for(int i = 0 ; i <= s.length() ; i++) {
-            string x = s;
-            x.insert(i , "()");
-            solve(x , n , k + 1);
+            s.insert(i , "()");
+            solve(s , n , k + 1);
+            s.erase(i , 2);
         }
     }
     vector<string> generateParenthesis(int n) {
-        solve("" , n , 0);
+        string s = "";
+        solve(s , n , 0);
         return ans;
     }
 };
