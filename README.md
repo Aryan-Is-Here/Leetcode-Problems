@@ -115,6 +115,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -243,6 +244,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0062-unique-paths) |
@@ -415,6 +418,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
