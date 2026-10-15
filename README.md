@@ -162,6 +162,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -227,6 +228,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -449,4 +451,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
