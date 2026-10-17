@@ -5,8 +5,9 @@ public:
         int n = profit.size();
         for(int i = 0 ; i < n ; i++) job.push_back({difficulty[i] , profit[i]});
         sort(job.begin() , job.end() , greater<pair<int , int>>());
-        for(int i = n - 2 ; i >= 0 ; i--) if(job[i].second < job[i + 1].second) job[i].second = job[i + 1].second;
         sort(worker.begin() , worker.end() , greater<int>());
+        if(worker[0] < job[n - 1].first) return 0;
+        for(int i = n - 2 ; i >= 0 ; i--) if(job[i].second < job[i + 1].second) job[i].second = job[i + 1].second;
         int sum = 0 , i = 0 , j = 0 , m = worker.size();
         while(i < n && j < m) {
             if(worker[j] < job[i].first) i++;
