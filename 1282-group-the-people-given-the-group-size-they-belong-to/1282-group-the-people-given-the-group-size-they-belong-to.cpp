@@ -1,20 +1,15 @@
 class Solution {
 public:
     vector<vector<int>> groupThePeople(vector<int>& groupSizes) {
-        vector<pair<int , int>>people;
-        vector<vector<int>> ans;
+        vector<vector<int>>ans;
+        unordered_map<int , vector<int>>mp;
         int n = groupSizes.size();
-        for(int i = 0 ; i < n ; i++) people.push_back({groupSizes[i] , i});
-        sort(people.begin() , people.end());
-        for(int i = 0 ; i < n ; ) {
-            int j = people[i].first;
-            vector<int>a;
-            while(j > 0 && i < n) {
-                a.push_back(people[i].second);
-                i++;
-                j--;
+        for(int i = 0 ; i < n ; i++) {
+            mp[groupSizes[i]].push_back(i);
+            if(mp[groupSizes[i]].size() == groupSizes[i]) {
+                ans.push_back(mp[groupSizes[i]]);
+                mp.erase(groupSizes[i]);
             }
-            ans.push_back(a);
         }
         return ans;
     }
