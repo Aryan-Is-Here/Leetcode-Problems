@@ -156,6 +156,7 @@
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0826-most-profit-assigning-work](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0849-maximize-distance-to-closest-person) |
 | [0853-car-fleet](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
