@@ -36,6 +36,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0652-find-duplicate-subtrees](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
@@ -68,6 +69,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0652-find-duplicate-subtrees](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0814-binary-tree-pruning) |
@@ -105,6 +107,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0563-binary-tree-tilt](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0563-binary-tree-tilt) |
+| [0652-find-duplicate-subtrees](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0897-increasing-order-search-tree) |
@@ -234,6 +237,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0652-find-duplicate-subtrees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
