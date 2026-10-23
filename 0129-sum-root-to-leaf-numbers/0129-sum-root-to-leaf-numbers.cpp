@@ -12,22 +12,25 @@
 class Solution {
 public:
     int sum = 0;
-    void dfs(TreeNode *root , string s) {
+    void dfs(TreeNode *root , string &s) {
         if(!root) return;
+        int length = s.length();
+        s = s + to_string(root -> val);
         if(!root -> left && !root -> right) {
-            s = s + to_string(root -> val);
             int x = stoi(s);
             sum += x;
+            s.resize(length);
             return;
         }
-        s = s + to_string(root -> val);
         dfs(root -> left , s);
         dfs(root -> right , s);
+        s.resize(length);
     }
 
 
     int sumNumbers(TreeNode* root) {
-        dfs(root , "");
+        string s = "";
+        dfs(root , s);
         return sum;
     }
 };
