@@ -182,6 +182,7 @@
 | [0881-boats-to-save-people](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -208,6 +209,7 @@
 | [0826-most-profit-assigning-work](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -241,6 +244,7 @@
 | [0704-binary-search](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0826-most-profit-assigning-work](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +272,7 @@
 | [0063-unique-paths-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
