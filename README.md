@@ -312,6 +312,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1175-prime-arrangements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1175-prime-arrangements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -507,4 +508,16 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
