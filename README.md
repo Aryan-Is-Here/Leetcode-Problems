@@ -192,6 +192,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -334,6 +335,7 @@
 | [0509-fibonacci-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [3693-climbing-stairs-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
