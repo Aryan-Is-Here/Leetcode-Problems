@@ -135,6 +135,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
@@ -367,6 +368,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0086-partition-list) |
@@ -534,4 +536,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
