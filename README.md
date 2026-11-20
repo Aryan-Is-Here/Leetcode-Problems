@@ -66,6 +66,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -170,6 +171,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -280,6 +282,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Binary Search Tree
@@ -360,6 +363,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
@@ -506,6 +510,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 ## Combinatorics
 |  |
