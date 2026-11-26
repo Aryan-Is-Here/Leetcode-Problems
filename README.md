@@ -326,6 +326,7 @@
 | [0509-fibonacci-number](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1175-prime-arrangements](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1175-prime-arrangements) |
+| [3360-stone-removal-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -439,6 +440,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [3360-stone-removal-game](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aryan-Is-Here/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
